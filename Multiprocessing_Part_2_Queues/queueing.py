@@ -1,5 +1,5 @@
 import multiprocessing
-from multiprocessing import Process, Queue # multiprocessing.Manager.Queueu
+from multiprocessing import Process, Queue # multiprocessing.Manager.Queue
 import time
 
 class Chef(Process):
