@@ -1,6 +1,6 @@
 """This code was not gone through in the video, but essentially this code provides a useful example of how to 'Cook Chicken' and use a common image editing library to change colors."""
 import multiprocessing
-from multiprocessing import Process, Queue # multiprocessing.Manager.Queueu
+from multiprocessing import Process, Queue # multiprocessing.Manager.Queue
 import time
 
 class Chef(Process):
